@@ -73,7 +73,9 @@ img {
         font-size: 16px;
         font-weight: bolder;
         height: 80px;
+        line-height: 75px;
         text-align: center;
+        margin-left: 10%;
 }
 
 @media only screen and (max-width: 980px) {
@@ -96,3 +98,4 @@ img {
 		.navbar {margin-left: 23%}
 		.namebox {width:65%; }
 }
+
